@@ -1,0 +1,357 @@
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Mapbox.IO.Compression.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Mapbox.Json.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\mscorlib.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\System.Core.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\System.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\System.Xml.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityScript.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Mapbox.IO.Compression.pdb
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\Mapbox.Json.pdb
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Sergey\Desktop\MapBox - Copy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\MapBox - Copy\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\MapBox - Copy\obj\Debug\Assembly-CSharp.dll
+C:\Users\Sergey\Desktop\MapBox - Copy\obj\Debug\Assembly-CSharp.pdb
+C:\NotAWindows\MapBox\Temp\bin\Debug\Assembly-CSharp.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\NotAWindows\MapBox\Temp\bin\Debug\Boo.Lang.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Mapbox.IO.Compression.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Mapbox.Json.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\mscorlib.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\System.Core.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\System.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\System.Xml.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\System.Xml.Linq.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Unity.Locator.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEditor.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UI.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityScript.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityScript.Lang.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Unity.Cecil.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Unity.DataContract.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\ExCSS.Unity.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Unity.IvyParser.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\Unity.CecilTools.dll
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEditor.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.UI.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\Mapbox.IO.Compression.pdb
+C:\NotAWindows\MapBox\Temp\bin\Debug\Mapbox.Json.pdb
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\NotAWindows\MapBox\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\NotAWindows\MapBox\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\NotAWindows\MapBox\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\NotAWindows\MapBox\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\NotAWindows\MapBox\obj\Debug\Assembly-CSharp.dll
+C:\NotAWindows\MapBox\obj\Debug\Assembly-CSharp.pdb
