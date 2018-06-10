@@ -1,0 +1,6 @@
+
+*.ide-wal
+*.ide-shm
+*.ide
+*.lock
+*.meta
