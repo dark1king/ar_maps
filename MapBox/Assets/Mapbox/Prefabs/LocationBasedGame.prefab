@@ -351,7 +351,7 @@ Transform:
   m_LocalScale: {x: 1, y: 3, z: 1}
   m_Children: []
   m_Father: {fileID: 4961856903295740}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4572037255418010
 Transform:
@@ -404,7 +404,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4961856903295740}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4779604382777758
 Transform:
@@ -459,8 +459,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4168681940542294}
-  - {fileID: 4542949352487020}
   - {fileID: 4725115997252208}
+  - {fileID: 4542949352487020}
   - {fileID: 4695949779991020}
   - {fileID: 4785537831469738}
   m_Father: {fileID: 4886150424162858}
@@ -651,7 +651,7 @@ MonoBehaviour:
         south: 1
       rangeAroundTransformOptions:
         targetTransform: {fileID: 4785537831469738}
-        visibleBuffer: 15
+        visibleBuffer: 5
         disposeBuffer: 0
     placementOptions:
       placementType: 1
@@ -900,6 +900,7 @@ MonoBehaviour:
   MainCamera: {fileID: 0}
   ArCamera: {fileID: 0}
   touchScript: {fileID: 0}
+  placementImage: {fileID: 0}
 --- !u!114 &114949464000399318
 MonoBehaviour:
   m_ObjectHideFlags: 1
